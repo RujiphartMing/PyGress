@@ -32,7 +32,7 @@
 - Command script ```https://github.com/RujiphartMing/PyGress.git```
 
 ### Step 1: Install required libraries in ```requirements.txt```
-- Command script ```pip install -r requirements. txt```
+- Command script ```pip install -r requirements.txt```
 
 ### Step 2: Create csv file named ```DataPyPI.csv```
 
