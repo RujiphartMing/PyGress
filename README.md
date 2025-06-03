@@ -34,7 +34,7 @@
 ### Step 1: Install required libraries in ```requirements.txt```
 - Command script ```pip install -r requirements. txt```
 
-### Step 2: Create csv file named "DataPyPI.csv"
+### Step 2: Create csv file named ```DataPyPI.csv```
 
 ### Step 3: Put GitHub Repository data into DataPyPI.csv
 - **Metadata** (Attributes needed in DataPyPI.csv)
