@@ -29,7 +29,7 @@
 
 ## How to run PyGress
 ### Step 0: Clone this repository
-- Command script ```git clone https://github.com/MUICT-SERU/SP2023-Greeedhub.git```
+- Command script ```https://github.com/RujiphartMing/PyGress.git```
 
 ### Step 1: Install required libraries in ```requirements.txt```
 - Command script ```pip install -r requirements. txt```
